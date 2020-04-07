@@ -7,5 +7,4 @@ Kelompok 4 beranggotakan:
 * Bryan Khufa Rahmada Aula 05111740000071
 * Arini Indah Nur Fuadah 05111740007003
 
-Dengan topik: Sistem Transaksional Toko Buku Online (Gramedia)
-Kami menggunakan teknik elisitasi: Wawancara dan Kuesioner
+Dengan topik: Sistem Transaksional Toko Buku Online (Gramedia). Kami menggunakan teknik elisitasi: Wawancara dan Kuesioner. Bekerja sama dengan kelompok 2, 7, dan 9 sebagai client yang terlibat.
