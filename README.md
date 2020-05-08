@@ -1,4 +1,6 @@
-# RKC_Elisitasi_Kel4
+# RKC_Kel4
+
+## Tugas Elisitasi
 
 Untuk kepentingan penugasan elisitasi pada mata kuliah Rekayasa Kebutuhan kelas C
 
@@ -26,3 +28,6 @@ List kebutuhan pengguna baik pembeli maupun admin admin, Kebutuhan fungsional, d
 6. Wawancara dengan kelompok 9
 7. Menganalisa hasil kuesioner
 8. Menetapkan list kebutuhan dengan pertimbangan hasil elisitasi
+
+
+## Tugas Prioritisasi
