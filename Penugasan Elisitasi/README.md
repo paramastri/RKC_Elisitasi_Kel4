@@ -18,3 +18,6 @@ Dengan topik: Sistem Transaksional Toko Buku Online (Gramedia). Kami menggunakan
 
 ###### Pada File List Kebutuhan_kelompok4_RKC.xlsx berisikan
 List kebutuhan pengguna baik pembeli maupun admin admin, Kebutuhan fungsional, dan kebutuhan non-fungsional
+
+###### Pada File Link_Kuisioner.txt berisikan
+Link menuju kuisioner dan hasil kuisioner mengenai elisitasi kebutuhan yang kami lakukan kepada client
