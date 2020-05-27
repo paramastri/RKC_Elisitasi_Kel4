@@ -2,6 +2,11 @@
 
 Untuk kepentingan pengumpulan tugas pada mata kuliah Rekayasa Kebutuhan kelas C - Kelompok 4
 
+Kelompok 4 beranggotakan:
+* Paramastri Ardiningrum 05111740000019
+* Bryan Khufa Rahmada Aula 05111740000071
+* Arini Indah Nur Fuadah 05111740007003
+
 ###### Pada File `LOGBOOK_Kel4_RKC.docx` berisikan 11 notulensi dari kegiatan Elisitasi dan Prioritisasi, diantaranya:
 1. Menyepakati topik sistem yang akan dianalisa list kebutuhannya
 2. Menyusun list kebutuhan berdasarkan hasil analisa pada website
