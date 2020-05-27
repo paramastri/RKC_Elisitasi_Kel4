@@ -18,13 +18,3 @@ Dengan topik: Sistem Transaksional Toko Buku Online (Gramedia). Kami menggunakan
 
 ###### Pada File List Kebutuhan_kelompok4_RKC.xlsx berisikan
 List kebutuhan pengguna baik pembeli maupun admin admin, Kebutuhan fungsional, dan kebutuhan non-fungsional
-
-###### Pada File Logbook_Kelompok4_RKC.docx berisikan 8 notulensi diantaranya:
-1. Menyepakati topik sistem yang akan dianalisa list kebutuhannya
-2. Menyusun list kebutuhan berdasarkan hasil analisa pada website
-3. Menyusun list pertanyaan untuk wawancara dan kuesioner
-4. Wawancara dengan kelompok 2
-5. Wawancara dengan kelompok 7
-6. Wawancara dengan kelompok 9
-7. Menganalisa hasil kuesioner
-8. Menetapkan list kebutuhan dengan pertimbangan hasil elisitasi
